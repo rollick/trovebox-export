@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.6.1)
+    ethon (0.7.2)
+      ffi (>= 1.3.0)
+    ffi (1.9.6)
+    json (1.8.2)
+    mini_exiftool (2.5.0)
+    oauth (0.4.7)
+    openphoto-ruby (0.0.1)
+      json
+      oauth (~> 0.4.5)
+    typhoeus (0.7.0)
+      ethon (>= 0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  mini_exiftool
+  openphoto-ruby
+  typhoeus
